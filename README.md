@@ -37,7 +37,7 @@ Pastikan perangkat Anda telah terpasang perangkat lunak berikut:
 
 1.  Salin repositori ini ke mesin lokal Anda.
     ```sh
-    git clone https://github.com/nama-pengguna-anda/nama-repositori-anda.git
+    git clone https://github.com/daffa-aditya-p/crud-golang.git
     ```
 
 2.  Masuk ke direktori proyek.
