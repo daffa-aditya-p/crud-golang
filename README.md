@@ -127,7 +127,7 @@ Setelah konfigurasi selesai, Anda dapat menjalankan server aplikasi.
 go run main.go
 ```
 
-Server akan berjalan di `http://localhost:8080` secara default.
+Server akan berjalan di `http://localhost:8080` secara default..
 
 ## Endpoint API
 
@@ -149,9 +149,4 @@ Kontribusi dari Anda sangat kami harapkan. Jika Anda ingin berkontribusi, silaka
 1.  Buat *fork* dari proyek.
 2.  Buat cabang fitur baru (`git checkout -b fitur/FiturBaru`).
 3.  Lakukan perubahan Anda (`git commit -m 'Menambahkan FiturBaru'`).
-4.  Unggah ke cabang (`git push origin fitur/FiturBaru`).
-5.  Buka *Pull Request*.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+4.  Unggah ke cabang (`git push orign fitur/FiturBaru`).
